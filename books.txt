@@ -1,2 +1,2 @@
 1|biba|anja|2021|0
-2|vgvg|ggg|2021|1
+2|vgvg|ggg|2021|0

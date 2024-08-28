@@ -1,4 +1,5 @@
-#include "./classing.cpp"
+#pragma once
+#include "./classing.h"
 #include <iostream>
 #include <string>
 #include <ctime>
